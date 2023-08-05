@@ -1,4 +1,4 @@
-# Data Science Projects on Algorithmic Trading
+# Quantitative Investment Strategy
 
 This GitHub repository contains 3 data science projects focused on algorithmic trading strategies. Each project
 explores a distinct approach to make data-driven investment decisions within the financial markets. Below is a summary
