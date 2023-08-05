@@ -4,7 +4,7 @@ This GitHub repository contains 3 data science projects focused on algorithmic t
 explores a distinct approach to make data-driven investment decisions within the financial markets. Below is a summary
 of each project's motive and key concepts:
 
-## Project 1: Equal-Weight S&P 500 Index Fund
+## [Project 1: Equal-Weight S&P 500 Index Fund](https://github.com/imsoumya18/quantitative_investment_strategy/blob/main/Project%201%3A%20Equal-Weight%20S%26P%20500%20Index%20Fund/1_equal_weight_s%26p500.ipynb)
 
 **Motive**: The primary objective of this project is to design an Equal-Weight S&P 500 Index Fund. Instead of the
 traditional market capitalization-weighted approach used in most index funds, this strategy assigns an equal weight to
@@ -17,7 +17,7 @@ all 500 stocks comprising the S&P 500 index.
 - Implementing rebalancing strategies to maintain equal weights over time.
 - Evaluating the performance of the Equal-Weight S&P 500 Index Fund against the standard market-cap weighted S&P 500.
 
-## Project 2: Quantitative Momentum Investing Strategy
+## [Project 2: Quantitative Momentum Investing Strategy](https://github.com/imsoumya18/quantitative_investment_strategy/blob/main/Project%202%3A%20Quantitative%20Momentum%20Investing%20Strategy/2_quantitative_momentum_strategy.ipynb)
 
 **Motive**: This project aims to develop a Quantitative Momentum Investing Strategy based on historical stock price
 returns over multiple periods (1 year, 6 months, 3 months, and 1 month). The strategy will identify and invest in stocks
@@ -30,7 +30,7 @@ with strong recent performance.
 - Constructing a portfolio of top-performing stocks according to the percentile ranking.
 - Analyzing and comparing the returns and risk of the Quantitative Momentum Investing Strategy against a benchmark.
 
-## Project 3: Quantitative Value Investing Strategy
+## [Project 3: Quantitative Value Investing Strategy](https://github.com/imsoumya18/quantitative_investment_strategy/blob/main/Project%203%3A%20Quantitative%20Value%20Investing%20Strategy/3_quantitative_value_strategy.ipynb)
 
 **Motive**: This project focuses on building a Quantitative Value Investing Strategy that considers fundamental ratios
 such as PE ratio, PB ratio, and price to sales ratio. The goal is to identify undervalued stocks that have the potential
