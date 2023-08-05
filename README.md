@@ -22,7 +22,7 @@ all 500 stocks comprising the S&P 500 index.
 returns over multiple periods (1 year, 6 months, 3 months, and 1 month). The strategy will identify and invest in stocks
 with strong recent performance.
 
-**Key Concepts**:
+**Steps**:
 
 - Calculating rolling returns for different timeframes to capture momentum.
 - Computing percentile scores of returns to rank stocks based on their performance.
@@ -34,7 +34,7 @@ with strong recent performance.
 such as PE ratio, PB ratio, and price to sales ratio. The goal is to identify undervalued stocks that have the potential
 for higher returns.
 
-**Key Concepts**:
+**Steps**:
 
 - Gathering and cleaning fundamental data for various stocks.
 - Calculating valuation ratios to assess the relative attractiveness of each stock.
